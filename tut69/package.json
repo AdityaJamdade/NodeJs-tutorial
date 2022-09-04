@@ -1,0 +1,22 @@
+{
+  "name": "tut69",
+  "version": "1.0.0",
+  "description": "The first package by me",
+  "main": "tut69.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "new"
+  ],
+  "author": "aditya",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "express": "^4.18.1",
+    "slugify": "^1.6.5"
+  },
+  "devDependencies": {
+    "nodemon": ">2.0.0"
+  }
+}
